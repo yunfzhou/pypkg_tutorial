@@ -2,7 +2,7 @@
 
 - This is a simple package tutorial.
 - The full tutorial can be found at https://makeoptim.com/python/pypi-pkg
-- The project information can be found at https://test.pypi.org/manage/project/pypkg-tutorial/releases/
+- The project information can be found at https://test.pypi.org/project/pypkg-tutorial/
 
 ### How to install
 
